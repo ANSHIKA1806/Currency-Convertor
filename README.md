@@ -1,3 +1,3 @@
 # Currency-Convertor
 
-https://anshika1806.github.io/Currency-Convertor/
+https://epic-austin-c9c9bf.netlify.app/
